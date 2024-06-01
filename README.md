@@ -33,7 +33,7 @@ Star Wars Explorer is a web app built with the MERN stack for exploring characte
 5.**Start the frontend server:**
    cd ../client
    npm start
-6.Known Issues
+6.**Known Issues**
   Pagination and error handling can be improved. 
 
 
