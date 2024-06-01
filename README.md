@@ -19,7 +19,7 @@ Star Wars Explorer is a web app built with the MERN stack for exploring characte
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/Luakkk/StarWars.git
    cd star-wars-explorer
 2. **Install dependencies:**
    cd server
