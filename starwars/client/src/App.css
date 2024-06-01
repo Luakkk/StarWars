@@ -1,0 +1,20 @@
+nav {
+    background-color: #282c34;
+    padding: 1rem;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+input {
+    margin-right: 0.5rem;
+}
